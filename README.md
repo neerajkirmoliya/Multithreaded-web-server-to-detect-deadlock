@@ -42,8 +42,9 @@ Any IDE (VS Code / IntelliJ / Eclipse) or terminal
 📥 Installation & Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/multithread-webserver-deadlock.git
-cd multithread-webserver-deadlock
+git clone https://github.com/neerajkirmoliya/Multithreaded-web-server-to-detect-deadlock.git
+cd Multithreaded-web-server-to-detect-deadlock
+
 
 2. Compile the project:
 javac *.java
@@ -81,15 +82,6 @@ java Client
 👉If circular wait occurs → server’s deadlock detector identifies it.
 
 👉Front & Frontend manage how client requests are routed to the server.
-
-📸 Screenshots 
-
-![Uploading Screenshot 2025-08-20 191716.png…]()
-
-
-![Uploading Screenshot 2025-08-20 191703.png…]()
-
-
 
 
 📚 Learning Outcomes
